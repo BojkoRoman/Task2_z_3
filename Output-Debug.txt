@@ -1,0 +1,10 @@
+﻿'Task2_z_3.exe': Loaded 'E:\Roman\Project Visual\Task_2_(1,3,5)\Task2_z_3\Debug\Task2_z_3.exe', Symbols loaded.
+'Task2_z_3.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Task2_z_3.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Task2_z_3.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Task2_z_3.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'Task2_z_3.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'Task2_z_3.exe': Loaded 'C:\Windows\SysWOW64\apphelp.dll', Cannot find or open the PDB file
+'Task2_z_3.exe': Loaded 'ImageAtBase0x49f40000', Loading disabled by Include/Exclude setting.
+'Task2_z_3.exe': Unloaded 'ImageAtBase0x49f40000'
+The program '[2292] Task2_z_3.exe: Native' has exited with code 0 (0x0).
